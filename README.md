@@ -5,3 +5,5 @@ https://wsearch-one.vercel.app
 # Wikipedia Search
 
 Search Wikipedia's API and see the articles' title, word count and snippet
+
+Created with Angular + Bulma CSS
